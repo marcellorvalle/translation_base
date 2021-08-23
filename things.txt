@@ -1,2 +1,2 @@
-fruit: 'fruit'
-bread: 'bread' 
+fruit: 'fruta'
+bread: 'pão' 
