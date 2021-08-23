@@ -1,2 +1,3 @@
 fruit: 'fruit'
-bread: 'bread' 
+bread: 'bread'
+wood: 'wood'
