@@ -1,2 +1,3 @@
 fruit: 'fruta'
 bread: 'pão' 
+wood: 'madeira'
